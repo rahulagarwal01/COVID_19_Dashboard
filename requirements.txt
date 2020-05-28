@@ -7,4 +7,3 @@ folium
 ipywidgets
 iplot
 cufflinks
-webbrowser
